@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+	<RuntimeProperties>
+		<CrashVersion>3</CrashVersion>
+		<CrashGUID>UE4CC-Windows-2691C9E4463D7D9683BF2391D7470372_0000</CrashGUID>
+		<ProcessId>14900</ProcessId>
+		<IsInternalBuild>false</IsInternalBuild>
+		<IsPerforceBuild>false</IsPerforceBuild>
+		<IsSourceDistribution>false</IsSourceDistribution>
+		<IsEnsure>true</IsEnsure>
+		<IsAssert>false</IsAssert>
+		<CrashType>Ensure</CrashType>
+		<SecondsSinceStart>61</SecondsSinceStart>
+		<GameName>UE4-Terreno_01</GameName>
+		<ExecutableName>UE4Editor</ExecutableName>
+		<BuildConfiguration>Development</BuildConfiguration>
+		<GameSessionID />
+		<PlatformName>Windows</PlatformName>
+		<PlatformNameIni>Windows</PlatformNameIni>
+		<EngineMode>Editor</EngineMode>
+		<EngineModeEx>Vanilla</EngineModeEx>
+		<DeploymentName />
+		<EngineVersion>4.15.3-3450819+++UE4+Release-4.15</EngineVersion>
+		<CommandLine>&quot;C:\Users\pguardia\Documents\Unreal Projects\Terreno_01\Terreno_01.uproject&quot;</CommandLine>
+		<LanguageLCID>3082</LanguageLCID>
+		<AppDefaultLocale>es_ES</AppDefaultLocale>
+		<BuildVersion>++UE4+Release-4.15-CL-3450819</BuildVersion>
+		<IsUE4Release>true</IsUE4Release>
+		<UserName>pguardia</UserName>
+		<BaseDir>C:/EPICS/UE_4.15/Engine/Binaries/Win64/</BaseDir>
+		<RootDir>C:/EPICS/UE_4.15/</RootDir>
+		<MachineId>C18BAEEC461BCF04C3377E826B4A7433</MachineId>
+		<LoginId>c18baeec461bcf04c3377e826b4a7433</LoginId>
+		<EpicAccountId>5df1c7db52f0431390bdfe50df490fc4</EpicAccountId>
+		<CallStack />
+		<SourceContext />
+		<UserDescription>Sent in the unattended mode</UserDescription>
+		<UserActivityHint>Layout=&quot;LevelEditorViewport&quot; Label=&quot;Ventana gráfica 1&quot; Content=SViewportsOverlay</UserActivityHint>
+		<ErrorMessage>Ensure condition failed: false [File:D:\Build\++UE4+Release-4.15+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\PackageName.cpp] [Line: 650] &nl;Illegal call to DoesPackageExist: &apos;../../../../../Users/pguardia/Documents/Unreal Projects/Terreno_01/Terreno_01.uproject&apos; is not a standard unreal filename or a long path name. Reason: La ruta no debe tener menos de 4 caracteres de longitud.&nl;</ErrorMessage>
+		<CrashDumpMode>0</CrashDumpMode>
+		<CrashReporterMessage />
+		<Misc.NumberOfCores>2</Misc.NumberOfCores>
+		<Misc.NumberOfCoresIncludingHyperthreads>4</Misc.NumberOfCoresIncludingHyperthreads>
+		<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+		<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+		<Misc.CPUBrand>Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz</Misc.CPUBrand>
+		<Misc.PrimaryGPUBrand>Intel(R) HD Graphics 520</Misc.PrimaryGPUBrand>
+		<Misc.OSVersionMajor>Windows 10</Misc.OSVersionMajor>
+		<Misc.OSVersionMinor />
+		<MemoryStats.TotalPhysical>8511401984</MemoryStats.TotalPhysical>
+		<MemoryStats.TotalVirtual>140737488224256</MemoryStats.TotalVirtual>
+		<MemoryStats.PageSize>65536</MemoryStats.PageSize>
+		<MemoryStats.TotalPhysicalGB>8</MemoryStats.TotalPhysicalGB>
+		<MemoryStats.AvailablePhysical>1145851904</MemoryStats.AvailablePhysical>
+		<MemoryStats.AvailableVirtual>140735583281152</MemoryStats.AvailableVirtual>
+		<MemoryStats.UsedPhysical>1114288128</MemoryStats.UsedPhysical>
+		<MemoryStats.PeakUsedPhysical>1115656192</MemoryStats.PeakUsedPhysical>
+		<MemoryStats.UsedVirtual>1044713472</MemoryStats.UsedVirtual>
+		<MemoryStats.PeakUsedVirtual>1060352000</MemoryStats.PeakUsedVirtual>
+		<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+		<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+		<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+		<TimeOfCrash>636547603009090000</TimeOfCrash>
+		<bAllowToBeContacted>1</bAllowToBeContacted>
+		<PlatformFullName>Win64 [Windows 10  64b]</PlatformFullName>
+		<CrashReportClientVersion>1.0</CrashReportClientVersion>
+	</RuntimeProperties>
+	<PlatformProperties>
+		<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+		<PlatformCallbackResult>0</PlatformCallbackResult>
+	</PlatformProperties>
+</FGenericCrashContext>
